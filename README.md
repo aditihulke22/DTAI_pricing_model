@@ -2,5 +2,5 @@
 
 Run steps:
 
-pip install requirements.txt
+pip install requirements.txt </br>
 streamlit run dtai.py

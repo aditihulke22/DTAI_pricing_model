@@ -2,6 +2,7 @@
 
 Run steps:
 
+Install python3
 python3 -m venv .venv </br>
-pip install requirements.txt </br>
+pip3 install requirements.txt </br>
 streamlit run dtai.py
